@@ -1,2 +1,2 @@
-# Mern-Stack-jobPortal
+# Mern-Stack-JobPortal
 A Job Portal web Application .
